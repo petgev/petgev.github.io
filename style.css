@@ -1,0 +1,41 @@
+#btn{
+    display: flex;
+    width: 600px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    border: dotted;
+    border-color: rgb(61, 95, 11);
+}
+#btn:hover{
+    background-color: white;
+    color: black;
+}
+
+#img{
+    
+    width: auto;
+    height: 100px;
+    margin: left;
+}
+#ucomlogo{
+    width:auto ;
+    height: 100px;
+}
+
+#frame{
+    width: 1000px;
+    height: 500px;
+    border: solid;
+    border-color: black;
+}
+body{
+    background-color: #7ebc0a;
+}
+#txt{
+    text-align: center;
+}
+#elq{
+    background-color:red;
+    color: white;
+}
